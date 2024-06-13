@@ -1,28 +1,27 @@
-# SISTEMA DE MATRCIULA Y REGISTRO DE NOTAS DE ESTUDIANTES PARA CENTRO EDUCATIVO EN JAVA.
+# SISTEMA DE MATRICULA Y REGISTRO DE NOTAS DE ESTUDIANTES PARA CENTRO EDUCATIVO EN JAVA.
 Sistema para matricular estudiantes y calificación notas por docente asignado y base de datos en MySQL, app de escritorio
 
 # Login
-![Login](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/InterfazAdminIMG.png)
+![Login](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/InterfazAdminIMG.PNG)
 
 # Panel Administrador/a - Secretaria Administrativa
-![PanelAdmin](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/InterfazAdminIMG.png)
+![PanelAdmin](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/InterfazAdminIMG.PNG)
 
 # Matricula Administrador/a - Secretaria Administrativa
-![MatriculaAdmin](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/MatriculaAdminIMG.png)
+![MatriculaAdmin](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/MatriculaAdminIMG.PNG)
 
 # Registro / Calificación de Notas Administrador/a - Secretaria Administrativa
-![NotasAdmin](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/NotasAdmiIMG.png)
+![NotasAdmin](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/NotasAdmiIMG.PNG)
 
 # Matricula Asistente
-![MatriculaAsistente](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/MatriculaAsistenteIMG.png)
+![MatriculaAsistente](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/MatriculaAsistenteIMG.PNG)
 
 # Panel de Docente - Registro / Calificación de Notas
-![PanelDocente](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/InicioDocenteIMG.png)
+![PanelDocente](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/blob/main/src/img/InicioDocenteIMG.PNG)
 
 
 ## Tecnologías
-- Java ![image](https://github.com/LOLcodigopau11/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java/assets/147451369/d8039efc-c495-4d23-8c71-aed2fa43e0aa)
-- ♨️
+- Java ♨️
 - MYSQL 🐬
 - SQL 🛢
 
